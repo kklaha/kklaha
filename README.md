@@ -27,7 +27,6 @@ Understanding the full stack - from the application down to the wire - is what s
 
 ### Other languages I use
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 
@@ -67,31 +66,11 @@ Knowing each step gives me the confidence to debug and improve.
 ## What I'm currently focused on
 
 - Building production-grade REST APIs with Spring Boot
-- Experimenting with reactive programming and non-blocking I/O
 - Learning more about distributed systems and eventual consistency
 - Improving my understanding of network protocols (TCP, UDP) and how applications behave under load
 - Exploring low-level network programming to better understand performance bottlenecks
 
 ---
-
-## A bit more about me
-
-I enjoy working in teams where code reviews are thoughtful, architecture decisions are discussed, and quality is everyone's responsibility.
-
-I'm curious by nature - I read RFCs, dig into framework source code, and constantly ask "why" and "how" instead of just "what".
-
-I believe that simplicity is hard but worth it. Clean code, clear naming, and well-structured modules save time and nerves in the long run.
-
-UDP interests me because it's the opposite of TCP - no handshake, no guarantees, but incredible speed. 
-Knowing when to use one over the other is a skill I'm actively developing.
-
----
-
-## Let's connect
-
-If you're interested in backend engineering, Java, Spring, or just want to discuss why TCP handshake is beautiful in its own way - feel free to reach out.
-
-I'm always open to conversations about technology, architecture, and reliable software.
 
 ---
 
