@@ -1,17 +1,17 @@
 # Hi, I'm kklaha (Nikolai)
 
-> "Reliable systems don't happen by accident — they're designed, tested, and cared for."
+> "Reliable systems don't happen by accident - they're designed, tested, and cared for."
 
 ---
 
 ## About me
 
 I'm a backend engineer focused on building maintainable, secure, and performant systems. 
-Right now, I'm deepening my expertise in the Spring ecosystem — from dependency injection to security filters, from JPA mappings to transaction boundaries.
+Right now, I'm deepening my expertise in the Spring ecosystem - from dependency injection to security filters, from JPA mappings to transaction boundaries.
 
 But I also believe that great backend development goes beyond frameworks. 
 I care about what happens between the client and the server: HTTP semantics, TCP and UDP behavior, connection pooling, and network latency. 
-Understanding the full stack — from the application down to the wire — is what separates good engineers from excellent ones.
+Understanding the full stack - from the application down to the wire - is what separates good engineers from excellent ones.
 
 ---
 
@@ -51,7 +51,7 @@ Understanding the full stack — from the application down to the wire — is wh
 
 ## How I think about engineering
 
-I don't just write code — I think in terms of data flows, failure modes, and long-term maintainability.
+I don't just write code - I think in terms of data flows, failure modes, and long-term maintainability.
 
 Security is not a separate layer for me. It's part of the design from the start. 
 I use Spring Security to protect endpoints, manage authentication flows, and control access — but I also think about session management, CORS, and secure defaults.
@@ -59,7 +59,7 @@ I use Spring Security to protect endpoints, manage authentication flows, and con
 On the data side, Hibernate helps me map objects to relational tables, but I pay attention to N+1 queries, lazy loading, and cache strategies. 
 Redis often sits between the database and the application, giving me a performance boost when used wisely.
 
-And when something goes wrong — and it will — I trace the path: HTTP request, TCP connection, UDP packet, thread pool, database query, response. 
+And when something goes wrong - and it will - I trace the path: HTTP request, TCP connection, UDP packet, thread pool, database query, response. 
 Knowing each step gives me the confidence to debug and improve.
 
 ---
@@ -78,18 +78,18 @@ Knowing each step gives me the confidence to debug and improve.
 
 I enjoy working in teams where code reviews are thoughtful, architecture decisions are discussed, and quality is everyone's responsibility.
 
-I'm curious by nature — I read RFCs, dig into framework source code, and constantly ask "why" and "how" instead of just "what".
+I'm curious by nature - I read RFCs, dig into framework source code, and constantly ask "why" and "how" instead of just "what".
 
 I believe that simplicity is hard but worth it. Clean code, clear naming, and well-structured modules save time and nerves in the long run.
 
-UDP interests me because it's the opposite of TCP — no handshake, no guarantees, but incredible speed. 
+UDP interests me because it's the opposite of TCP - no handshake, no guarantees, but incredible speed. 
 Knowing when to use one over the other is a skill I'm actively developing.
 
 ---
 
 ## Let's connect
 
-If you're interested in backend engineering, Java, Spring, or just want to discuss why TCP handshake is beautiful in its own way — feel free to reach out.
+If you're interested in backend engineering, Java, Spring, or just want to discuss why TCP handshake is beautiful in its own way - feel free to reach out.
 
 I'm always open to conversations about technology, architecture, and reliable software.
 
