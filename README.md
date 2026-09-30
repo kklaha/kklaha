@@ -1,7 +1,5 @@
 # Hi, I'm kklaha (Nikolai)
 
-> "Reliable systems don't happen by accident - they're designed, tested, and cared for."
-
 ---
 
 ## About me
