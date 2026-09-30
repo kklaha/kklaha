@@ -1,6 +1,5 @@
 # Hi, I'm kklaha (Nikolai)
 
----
 
 ## About me
 
@@ -46,30 +45,10 @@ Understanding the full stack - from the application down to the wire - is what s
 
 ---
 
-## How I think about engineering
-
-I don't just write code - I think in terms of data flows, failure modes, and long-term maintainability.
-
-Security is not a separate layer for me. It's part of the design from the start. 
-I use Spring Security to protect endpoints, manage authentication flows, and control access — but I also think about session management, CORS, and secure defaults.
-
-On the data side, Hibernate helps me map objects to relational tables, but I pay attention to N+1 queries, lazy loading, and cache strategies. 
-Redis often sits between the database and the application, giving me a performance boost when used wisely.
-
-And when something goes wrong - and it will - I trace the path: HTTP request, TCP connection, UDP packet, thread pool, database query, response. 
-Knowing each step gives me the confidence to debug and improve.
-
----
-
 ## What I'm currently focused on
 
 - Building production-grade REST APIs with Spring Boot
 - Learning more about distributed systems and eventual consistency
-- Improving my understanding of network protocols (TCP, UDP) and how applications behave under load
-- Exploring low-level network programming to better understand performance bottlenecks
 
 ---
 
----
-
-> *"The best systems are boring — they just work, every time."*
