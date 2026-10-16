@@ -4,11 +4,6 @@
 ## About me
 
 I'm a backend engineer focused on building maintainable, secure, and performant systems. 
-Right now, I'm deepening my expertise in the Spring ecosystem - from dependency injection to security filters, from JPA mappings to transaction boundaries.
-
-But I also believe that great backend development goes beyond frameworks. 
-I care about what happens between the client and the server: HTTP semantics, TCP and UDP behavior, connection pooling, and network latency. 
-Understanding the full stack - from the application down to the wire - is what separates good engineers from excellent ones.
 
 ---
 
@@ -37,11 +32,6 @@ Understanding the full stack - from the application down to the wire - is what s
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
-### Protocols and networking
-
-<img src="https://img.shields.io/badge/HTTP-005A9C?style=for-the-badge&logo=http&logoColor=white" alt="HTTP" />
-<img src="https://img.shields.io/badge/TCP-003366?style=for-the-badge&logo=tcp&logoColor=white" alt="TCP" />
-<img src="https://img.shields.io/badge/UDP-003366?style=for-the-badge&logo=udp&logoColor=white" alt="UDP" />
 
 ---
 
@@ -51,4 +41,5 @@ Understanding the full stack - from the application down to the wire - is what s
 - Learning more about distributed systems and eventual consistency
 
 ---
+
 
